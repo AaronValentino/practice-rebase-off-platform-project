@@ -14,3 +14,5 @@ The repository includes a short children story. The story is in progress in vari
 
 > a simple Git project created for
 > practicing Git knowledge
+
+###### ※ Can't change the visibility to private because it is a forked repository.
